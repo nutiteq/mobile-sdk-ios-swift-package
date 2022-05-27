@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CartoMobileSDK",
-            url: "https://nutifront.s3.amazonaws.com/sdk_snapshots/sdk4-ios-4.4.5.zip",
-            checksum: "003d72f31603b37f477ee3006b17315062e2fd4e74b3852b3da64c392f2a5fdd"
+            url: "https://nutifront.s3.amazonaws.com/sdk_snapshots/sdk4-ios-4.4.6-rc.1.zip",
+            checksum: "72477b2a185633f6299cfcf747dd959b9ca9924c21a94397809f6c5d26479fca"
         )
     ]
 )
